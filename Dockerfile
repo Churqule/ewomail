@@ -1,1 +1,1 @@
-FROM tangramor/ewomail:lastest
+FROM tangramor/ewomail:latest
